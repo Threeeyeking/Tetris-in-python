@@ -18,4 +18,4 @@ App can be deployed through live server/ interactive window or web browser.
 
 ## sole contributor
 
-Rashad Roman
+Rashad Roman (https://github.com/Threeeyeking)
