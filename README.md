@@ -14,4 +14,4 @@ The left and right arrow keys control the direction of each descending piece.
 
 ## sole contributor
 
-Rashad Roman
+Rashad Roman (https://github.com/Threeeyeking)
